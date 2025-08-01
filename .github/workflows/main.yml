@@ -29,7 +29,7 @@ jobs:
     - name: Auth
 
 
-      run: .\ngrok\ngrok.exe authtoken 2Nb2ImLGfWMVBmdl67qRNMiVwDp_3yVL5dfBZQUjbBrEkBAhA
+      run: .\ngrok\ngrok.exe authtoken 30hXV4Sctvjsv6Vho1rN5q90ATI_262GLEjXidVrvBLoc31aX
       
 
     - name: Enable TS
